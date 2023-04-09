@@ -1,6 +1,7 @@
+<!--
+
 ### Hi there 👋
 
-<!--
 **gqwer0123/gqwer0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align = 'center'>
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello,%20World!👋&fontSize=60)
+
+# 🎖 Ranking
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bqwer0123)](https://solved.ac/bqwer0123)
+
+# 🛠 Github Stats
+
+[![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=gqwer0123&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
+
+</div>
+
