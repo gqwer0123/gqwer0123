@@ -14,21 +14,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello,%20World!👋&fontSize=60)
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
+
 -->
 
 <div align = 'center'>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello,%20World!👋&fontSize=60)
-
-# 🎖 Ranking
+## 🎖 Ranking
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bqwer0123)](https://solved.ac/bqwer0123)
 
-# 🛠 Github Stats
+## 🛠 Github Stats
 
 [![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=gqwer0123&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&fontSize=90)
-
 </div>
-
