@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # 🎖 Ranking
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bqwer0123)](https://solved.ac/bqwer0123)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bqwer0123)](https://solved.ac/bqwer0123/)
 
 # 🛠 Github Stats
 
