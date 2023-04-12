@@ -2,7 +2,6 @@
   
   <!-- https://github.com/kyechan99/capsule-render -->
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=120&section=header&reversal=true)
-  
   ### **🐱‍💻 GitHub stats**
   <!-- https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
   
