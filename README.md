@@ -9,6 +9,12 @@
   [![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=gqwer0123&show_icons=true&theme=default&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
   
+  <!-- https://github.com/hyochan/github-stats -->
+  ![github-stats](https://stats.hyochan.dev/api/github-stats?login=gqwer0123)
+  
+  ![github-trophies](https://stats.hyochan.dev/api/github-trophies?login=gqwer0123)
+  
+  
   
   ### **📚 Most used language**
   
