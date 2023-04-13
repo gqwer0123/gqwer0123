@@ -28,7 +28,7 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bqwer0123)](https://solved.ac/bqwer0123)
   <!--https://github.com/mazassumnida/mazandi-->
-  <img src="http://mazandi.herokuapp.com/api?handle={bqwer0123}&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=bqwer0123&theme=warm"/>
   
 
   
